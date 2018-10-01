@@ -1,0 +1,490 @@
+# depslib dependency file v1.0
+1433268546 source:c:\users\lothbrok\documents\code blocks\cppmon\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"match.h"
+	"player.h"
+
+1433275891 source:c:\users\lothbrok\documents\code blocks\cppmon\src\randfz.cpp
+	"randFz.h"
+
+1433275889 c:\users\lothbrok\documents\code blocks\cppmon\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1433270135 c:\users\lothbrok\documents\code blocks\cppmon\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1433273489 c:\users\lothbrok\documents\code blocks\cppmon\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+
+1433273489 source:c:\users\lothbrok\documents\code blocks\cppmon\src\attacchi.cpp
+	"attacchi.h"
+
+1433269780 source:c:\users\lothbrok\documents\code blocks\cppmon\src\monster.cpp
+	"monster.h"
+
+1431331060 source:c:\users\lothbrok\documents\code blocks\cppmon\src\logger.cpp
+	"Logger.h"
+
+1433208394 c:\users\lothbrok\documents\code blocks\cppmon\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1431344193 c:\users\lothbrok\documents\code blocks\cppmon\include\read_files.h
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	<cstdlib>
+
+1433208704 c:\users\lothbrok\documents\code blocks\cppmon\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1433273489 source:c:\users\lothbrok\documents\code blocks\cppmon\src\match.cpp
+	"match.h"
+
+1433269780 c:\users\lothbrok\documents\code blocks\cppmon\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1433268336 source:c:\users\lothbrok\documents\code blocks\cppmon\src\player.cpp
+	"player.h"
+
+1431528265 c:\users\lothbrok\documents\code blocks\cppmon\include\field.h
+	<iostream>
+	<string>
+	"match.h"
+	"monster.h"
+	"player.h"
+
+1431528235 source:c:\users\lothbrok\documents\code blocks\cppmon\src\field.cpp
+	"field.h"
+
+1432770774 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<vector>
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"match.h"
+	"player.h"
+
+1431470238 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1432829329 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1431872886 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+	"Logger.h"
+
+1432829023 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1432770450 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1432812691 c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1431971973 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\src\attacchi.cpp
+	"attacchi.h"
+
+1431331060 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\src\logger.cpp
+	"Logger.h"
+
+1432829329 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\src\monster.cpp
+	"monster.h"
+
+1432854999 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\src\player.cpp
+	"player.h"
+
+1431943938 source:c:\users\lothbrok\desktop\cppmon_26--- ultima versione prima della modifica in public logger\src\randfz.cpp
+	"randFz.h"
+
+1433268546 source:c:\users\lothbrok\desktop\cppmon_41\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"match.h"
+	"player.h"
+
+1433275889 c:\users\lothbrok\desktop\cppmon_41\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1433270135 c:\users\lothbrok\desktop\cppmon_41\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1433273489 c:\users\lothbrok\desktop\cppmon_41\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+
+1433208394 c:\users\lothbrok\desktop\cppmon_41\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1433269780 c:\users\lothbrok\desktop\cppmon_41\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1433208704 c:\users\lothbrok\desktop\cppmon_41\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1433273489 source:c:\users\lothbrok\desktop\cppmon_41\src\attacchi.cpp
+	"attacchi.h"
+
+1431331060 source:c:\users\lothbrok\desktop\cppmon_41\src\logger.cpp
+	"Logger.h"
+
+1433273489 source:c:\users\lothbrok\desktop\cppmon_41\src\match.cpp
+	"match.h"
+
+1433269780 source:c:\users\lothbrok\desktop\cppmon_41\src\monster.cpp
+	"monster.h"
+
+1433268336 source:c:\users\lothbrok\desktop\cppmon_41\src\player.cpp
+	"player.h"
+
+1433275891 source:c:\users\lothbrok\desktop\cppmon_41\src\randfz.cpp
+	"randFz.h"
+
+1433268546 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"match.h"
+	"player.h"
+
+1433275889 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1433270135 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1433273489 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+
+1433208394 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1433269780 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1433208704 c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1433273489 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\attacchi.cpp
+	"attacchi.h"
+
+1431331060 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\logger.cpp
+	"Logger.h"
+
+1433273489 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\match.cpp
+	"match.h"
+
+1433269780 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\monster.cpp
+	"monster.h"
+
+1433268336 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\player.cpp
+	"player.h"
+
+1433275891 source:c:\users\lothbrok\desktop\cristofanini_carloalberto_182970\src\randfz.cpp
+	"randFz.h"
+
+1433268546 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"match.h"
+	"player.h"
+
+1433275889 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1433270135 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1433273489 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+
+1433208394 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1433269780 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1433208704 c:\users\admin\desktop\cristofanini_carloalberto_182970\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1433273489 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\attacchi.cpp
+	"attacchi.h"
+
+1431331060 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\logger.cpp
+	"Logger.h"
+
+1433273489 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\match.cpp
+	"match.h"
+
+1433269780 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\monster.cpp
+	"monster.h"
+
+1433268336 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\player.cpp
+	"player.h"
+
+1433275891 source:c:\users\admin\desktop\cristofanini_carloalberto_182970\src\randfz.cpp
+	"randFz.h"
+
+1537529433 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<string>
+	<cstdlib>
+	"match.h"
+	"randFz.h"
+	"monster.h"
+	"attacchi.h"
+	"Logger.h"
+	"player.h"
+
+1537546686 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\randfz.h
+	<iostream>
+	<cstdlib>
+
+1433270135 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\monster.h
+	<iostream>
+	<string>
+	<cmath>
+	<vector>
+	<fstream>
+	"randFz.h"
+	"attacchi.h"
+	"Logger.h"
+
+1433273489 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\attacchi.h
+	<iostream>
+	<string>
+	<sstream>
+
+1537544893 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\logger.h
+	<iostream>
+	<fstream>
+	<string>
+
+1537546686 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\match.h
+	<string>
+	<vector>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<ctime>
+	<cmath>
+	"randFz.h"
+	"attacchi.h"
+	"monster.h"
+	"player.h"
+	"Logger.h"
+
+1433208704 c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\include\player.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	"monster.h"
+	"Logger.h"
+
+1433273489 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\attacchi.cpp
+	"attacchi.h"
+
+1431331060 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\logger.cpp
+	"Logger.h"
+
+1433273489 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\match.cpp
+	"match.h"
+
+1433269780 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\monster.cpp
+	"monster.h"
+
+1433268336 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\player.cpp
+	"player.h"
+
+1433275891 source:c:\users\admin\documents\carlo\ripasso c++\a_c - homework - ccpmon\cristofanini_carloalberto_182970\src\randfz.cpp
+	"randFz.h"
+

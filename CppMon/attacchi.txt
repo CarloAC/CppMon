@@ -1,0 +1,8 @@
+1 Pugno 50
+2 Rapido 20 p
+4 Danza attaccante:PA++
+3 Focus attaccante:PD+
+6 Calcio 65
+7 Rafforzatore attaccante:PD++
+8 IperPugno 120 attaccante:PV--
+9 UltraRapido 80 difensore:PD++ p

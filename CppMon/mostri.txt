@@ -1,0 +1,6 @@
+1 Sauro  	80 82 83 80
+2 Drago 	78 84 78 100
+3 Tartaruga 	79 83 100 78
+4 Aquila 	83 80 75 101
+5 Serpente 	60 85 69 80
+6 Leone		55 135 45 120

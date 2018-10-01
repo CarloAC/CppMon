@@ -1,0 +1,43 @@
+[CppMon] Data: 21/9/2018 - Ore: 16:43
+[CppMon] Comincia la partita  Ludovico  vs  Giuseppe
+[Ludovico] Mostri : Sauro Aquila Tartaruga
+[Ludovico] Manda in campo : Sauro
+[Giuseppe] Mostri : Sauro Aquila
+[Giuseppe] Manda in campo : Sauro
+[CppMon] 		***
+
+[CppMon] Turno : 0
+[Sauro] HP : 80
+[Sauro] HP : 80
+[Sauro] Sorteggiato l'attacco con priorita' : Rapido
+[Sauro] Scelto l'attacco senza priorita' : IperPugno
+[Sauro] Sorteggiato attacco con priorita' : Rapido
+[Sauro] Attacca con Rapido infliggendo all'avversario un danno agli HP di 19
+[Sauro] Nuovi HP : 61
+[Sauro] Scelto attacco senza priorita' : IperPugno
+[Sauro] PV : 20
+[Sauro] Attacca con IperPugno infliggendo all'avversario un danno agli HP di 118
+[Sauro] Nuovi HP : -38
+[Sauro] HP : -38
+[Sauro] E' morto : non potra' piu' combattere.
+[Giuseppe] Numero di mostri rimasti nel team : 1
+[CppMon] 		***
+
+[CppMon] Turno : 1
+[Sauro] HP : 61
+[Aquila] HP : 83
+[Sauro] Velocita' : 20
+[Aquila] Velocita' : 101
+[Aquila] Sorteggiato attacco senza priorita' : Pugno
+[Aquila] Attacca con Pugno infliggendo all'avversario un danno agli HP di 38
+[Sauro] Nuovi HP : 23
+[Sauro] Scelto attacco senza priorita' : IperPugno
+[Sauro] PV dovrebbe diminuire da 20 a 5 ma non posso diminuire oltre 1
+[Sauro] PV : 10
+[Sauro] Attacca con IperPugno infliggendo all'avversario un danno agli HP di 104
+[Aquila] Nuovi HP : -21
+[Aquila] HP : -21
+[Aquila] E' morto : non potra' piu' combattere.
+[CppMon] 	-+-+-+-+-+-+-+-+-+-+-+-+-
+[CppMon] Si conclude il match con la vittoria di : Ludovico
+[CppMon] Data: 21/9/2018 - Ore: 16:43
